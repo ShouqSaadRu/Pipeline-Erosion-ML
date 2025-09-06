@@ -30,7 +30,7 @@ The purpose of this project is to design a **proof-of-concept machine learning f
 
 ## Development Note
 
-This project was completed within **two weeks** during my training period:  
+This project was completed within **two weeks**:  
 
 - **Week 1** Reading the research paper, trying to understand the problem, and contacting the requestor (a non-technical stakeholder) to clarify requirements.
 - **Week 2** Building the ML pipeline, preprocessing data, training models, and writing the report.  
