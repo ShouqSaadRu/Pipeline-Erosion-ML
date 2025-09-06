@@ -8,7 +8,7 @@ In computational fluid research (CFR) and industrial pipeline monitoring, calcul
 
 In oil and gas pipelines, especially at bends and elbows, erosion from solid particles such as sand can cause severe damage. Predicting this erosion helps minimize failures, maintenance costs, and unplanned shutdowns.  
 
-This project applies **machine learning techniques** to structured experimental data to predict erosion rates. It builds upon a previous study ([Zahedi et al., 2018](https://doi.org/10.1016/j.powtec.2018.07.055)) that used Random Forests and another models. We extended their approach by adding preprocessing, feature scaling, hyperparameter tuning, and testing multiple ML models.  
+This project applies **machine learning techniques** to structured experimental data to predict erosion rates. It builds upon a previous study ([Zahedi et al., 2018](https://doi.org/10.1016/j.powtec.2018.07.055)) that used Random Forests and another models. We extended their approach by adding preprocessing, and testing multiple ML models.  
 
 The purpose of this project is to design a **proof-of-concept machine learning framework** for predicting erosion rates in pipelines, with the goal of supporting engineers and researchers in:  
 
@@ -22,7 +22,7 @@ The purpose of this project is to design a **proof-of-concept machine learning f
 
 ## Project Report PDF
 
-- **Project Report PDF:** [`docs/erosion report.pdf`](docs/erosion report.pdf)
+- **Project Report PDF:** [`docs/erosion report.pdf`](docs/erosionReport.pdf)
 
 ---
 
